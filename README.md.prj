@@ -6,11 +6,12 @@
    <UUID>bb97b684-2e1d-4569-b45f-836a6c5ae9ae</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>9.5.0</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>9.5.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\user\Documents\GitHub\porto-automation_katalon-orangeweb-v1\README.md\README.md.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
